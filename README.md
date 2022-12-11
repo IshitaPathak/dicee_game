@@ -1,4 +1,5 @@
-# dicee_game
+# dicee_game ![DiceGIF](https://user-images.githubusercontent.com/75848598/206893263-1d0e0558-5d52-4a26-a941-8584698039ac.gif)
+
 ## link: https://ishitapathak.github.io/dicee_game/
 
 ## How it Works??
